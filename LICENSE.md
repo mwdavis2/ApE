@@ -2,7 +2,7 @@ Copyright and Disclaimer
 This software is copyright 2003-2021 by M. Wayne Davis.
 
 All copies are not for redistribution and should be obtained from the author.
-The author hereby grants permission to use, copy, and modify this software for any purpose. Modifications to this software may only be used by their authors and may not be re-distributed in any form. No written agreement, license, or royalty fee is required for any of the authorized uses.
+The author hereby grants permission to use and copy this software for any purpose. Modifications to this software may only be used by their authors and may not be re-distributed in any form. No written agreement, license, or royalty fee is required for any of the authorized uses.
 
 
 IN NO EVENT SHALL THE AUTHOR OR DISTRIBUTOR BE LIABLE TO ANY PARTY
