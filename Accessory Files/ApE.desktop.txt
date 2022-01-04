@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=ApE
+Comment=A plasmid Editor
+GenericName=DNA Editor
+X-GNOME-FullName=ApE A plasmid editor
+Exec=~/bin/ApE/Ape.tcl %F
+Terminal=false
+Type=Application
+Icon=~/bin/ApE/Accessory\ Files/Icons\ and\ images/ApE_icon_200.png
+Categories=DNA;Viewer;Editor
