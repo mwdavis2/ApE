@@ -1,0 +1,13 @@
+Package tls 1.6.7.1
+Meta as::author      {Dan Razell} {Matt Newman} {Jeff Hobbs}
+Meta as::build::date 2015-07-09
+Meta as::origin      http://sourceforge.net/projects/tls
+Meta category        Channels
+Meta description     TLS provides a replacement socket command for
+Meta description     setting up and using secure sockets.
+Meta license         BSD
+Meta openssl         {OpenSSL 1.0.2d 9 Jul 2015}
+Meta platform        win32-ix86
+Meta require         {Tcl 8.4}
+Meta subject         ssl tls security
+Meta summary         SSL/TLS binding for Tcl
